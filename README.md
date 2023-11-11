@@ -51,7 +51,7 @@ Você pode contribuir para o desenvolvimento do PinheiroSocial nas seguintes ár
 - Desenvolvimento do Banco de Dados
 - Correção de Bugs
 
-Consulte as [Diretrizes de Contribuição](CONTRIBUTING.md) para obter mais informações.
+Consulte as [Diretrizes de Contribuição](CONTRIBUIÇÃO.md) para obter mais informações.
 
 ## Roadmap
 
